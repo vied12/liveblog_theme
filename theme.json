@@ -1,0 +1,15 @@
+{
+    "label": "TagesWoche Theme",
+    "name": "TagesWoche",
+    "version": "0.0.1",
+    "author": "Felix Michel <felix.michel@tageswoche.ch>",
+    "extends": "classic",
+    "styles": [
+        "styles/embed.css"
+    ],
+    "scripts": [
+        "main.js"
+    ],
+    "options": [
+    ]
+}
