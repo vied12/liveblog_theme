@@ -1,8 +1,12 @@
 {
     "label": "TagesWoche Theme",
     "name": "TagesWoche",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Felix Michel <felix.michel@tageswoche.ch>",
+    "repository": {
+        "type" : "git",
+        "url" : "git@github.com:felixmichel/liveblog_theme.git"
+    },
     "extends": "classic",
     "styles": [
         "styles/embed.css"
